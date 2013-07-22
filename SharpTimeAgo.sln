@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpTimeAgo", "SharpTimeAgo\SharpTimeAgo.csproj", "{7EE108FD-6134-4B6A-9E00-C93DFE2D13D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpTimeAgo.Tests", "SharpTimeAgo.Tests\SharpTimeAgo.Tests.csproj", "{C9E15BDF-6C05-4C22-86A9-5F5C667BD3C0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{19753EDD-EB73-4454-B4E8-03F0975E0271}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EE108FD-6134-4B6A-9E00-C93DFE2D13D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EE108FD-6134-4B6A-9E00-C93DFE2D13D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EE108FD-6134-4B6A-9E00-C93DFE2D13D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EE108FD-6134-4B6A-9E00-C93DFE2D13D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9E15BDF-6C05-4C22-86A9-5F5C667BD3C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9E15BDF-6C05-4C22-86A9-5F5C667BD3C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9E15BDF-6C05-4C22-86A9-5F5C667BD3C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9E15BDF-6C05-4C22-86A9-5F5C667BD3C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
